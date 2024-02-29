@@ -3,3 +3,4 @@
  pub mod problem80;
  pub mod problem11;
  pub mod problem169;
+ pub mod problem189;
